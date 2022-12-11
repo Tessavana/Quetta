@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Quetta/static/css/main.502d0a39.css",
-    "main.js": "/Quetta/static/js/main.53ede1ca.js",
+    "main.css": "/Quetta/static/css/main.96a9e3c8.css",
+    "main.js": "/Quetta/static/js/main.d4829510.js",
     "static/js/787.1f4feb5b.chunk.js": "/Quetta/static/js/787.1f4feb5b.chunk.js",
+    "static/media/instagram.svg": "/Quetta/static/media/instagram.c2056460bbbf6c051f72df6d7c2fa6dc.svg",
     "index.html": "/Quetta/index.html",
-    "main.502d0a39.css.map": "/Quetta/static/css/main.502d0a39.css.map",
-    "main.53ede1ca.js.map": "/Quetta/static/js/main.53ede1ca.js.map",
+    "main.96a9e3c8.css.map": "/Quetta/static/css/main.96a9e3c8.css.map",
+    "main.d4829510.js.map": "/Quetta/static/js/main.d4829510.js.map",
     "787.1f4feb5b.chunk.js.map": "/Quetta/static/js/787.1f4feb5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.502d0a39.css",
-    "static/js/main.53ede1ca.js"
+    "static/css/main.96a9e3c8.css",
+    "static/js/main.d4829510.js"
   ]
 }
