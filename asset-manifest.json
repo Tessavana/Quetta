@@ -1,7 +1,7 @@
 {
-  "main.css": "/Quetta/static/css/main.9a532859.chunk.css",
-  "main.js": "/Quetta/static/js/main.2df73753.chunk.js",
-  "main.js.map": "/Quetta/static/js/main.2df73753.chunk.js.map",
+  "main.css": "/Quetta/static/css/main.a593d2d9.chunk.css",
+  "main.js": "/Quetta/static/js/main.19279e4f.chunk.js",
+  "main.js.map": "/Quetta/static/js/main.19279e4f.chunk.js.map",
   "static/js/1.5a63e809.chunk.js": "/Quetta/static/js/1.5a63e809.chunk.js",
   "static/js/1.5a63e809.chunk.js.map": "/Quetta/static/js/1.5a63e809.chunk.js.map",
   "static/js/2.d00f19bf.chunk.js": "/Quetta/static/js/2.d00f19bf.chunk.js",
@@ -25,8 +25,8 @@
   "static/media/Teams.svg": "/Quetta/static/media/Teams.20d3b928.svg",
   "static/media/News.svg": "/Quetta/static/media/News.b516a032.svg",
   "static/media/shopping.svg": "/Quetta/static/media/shopping.3dfb6de2.svg",
-  "static/css/main.9a532859.chunk.css.map": "/Quetta/static/css/main.9a532859.chunk.css.map",
+  "static/css/main.a593d2d9.chunk.css.map": "/Quetta/static/css/main.a593d2d9.chunk.css.map",
   "index.html": "/Quetta/index.html",
-  "precache-manifest.56a40bbd0a44b097d4e534e539a0d955.js": "/Quetta/precache-manifest.56a40bbd0a44b097d4e534e539a0d955.js",
+  "precache-manifest.9def183243a3351b073c94d6a0311067.js": "/Quetta/precache-manifest.9def183243a3351b073c94d6a0311067.js",
   "service-worker.js": "/Quetta/service-worker.js"
 }
