@@ -1,16 +1,32 @@
 {
-  "files": {
-    "main.css": "/Quetta/static/css/main.96a9e3c8.css",
-    "main.js": "/Quetta/static/js/main.d4829510.js",
-    "static/js/787.1f4feb5b.chunk.js": "/Quetta/static/js/787.1f4feb5b.chunk.js",
-    "static/media/instagram.svg": "/Quetta/static/media/instagram.c2056460bbbf6c051f72df6d7c2fa6dc.svg",
-    "index.html": "/Quetta/index.html",
-    "main.96a9e3c8.css.map": "/Quetta/static/css/main.96a9e3c8.css.map",
-    "main.d4829510.js.map": "/Quetta/static/js/main.d4829510.js.map",
-    "787.1f4feb5b.chunk.js.map": "/Quetta/static/js/787.1f4feb5b.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.96a9e3c8.css",
-    "static/js/main.d4829510.js"
-  ]
+  "main.css": "/Quetta/static/css/main.e9f144ea.chunk.css",
+  "main.js": "/Quetta/static/js/main.e65ce3bd.chunk.js",
+  "main.js.map": "/Quetta/static/js/main.e65ce3bd.chunk.js.map",
+  "static/js/1.5a63e809.chunk.js": "/Quetta/static/js/1.5a63e809.chunk.js",
+  "static/js/1.5a63e809.chunk.js.map": "/Quetta/static/js/1.5a63e809.chunk.js.map",
+  "static/js/2.d00f19bf.chunk.js": "/Quetta/static/js/2.d00f19bf.chunk.js",
+  "static/js/2.d00f19bf.chunk.js.map": "/Quetta/static/js/2.d00f19bf.chunk.js.map",
+  "runtime~main.js": "/Quetta/static/js/runtime~main.85397e61.js",
+  "runtime~main.js.map": "/Quetta/static/js/runtime~main.85397e61.js.map",
+  "static/media/instagram.svg": "/Quetta/static/media/instagram.e839a8bf.svg",
+  "static/media/YouTube.svg": "/Quetta/static/media/YouTube.21ea74e9.svg",
+  "static/media/TikTok.svg": "/Quetta/static/media/TikTok.e1361c1c.svg",
+  "static/media/whatsapp.svg": "/Quetta/static/media/whatsapp.c71bc0c8.svg",
+  "static/media/Email.svg": "/Quetta/static/media/Email.d07c27d5.svg",
+  "static/media/Netflix.svg": "/Quetta/static/media/Netflix.ead79280.svg",
+  "static/media/Twitter.svg": "/Quetta/static/media/Twitter.fb8f1752.svg",
+  "static/media/Steam.svg": "/Quetta/static/media/Steam.c4881502.svg",
+  "static/media/snapchat.svg": "/Quetta/static/media/snapchat.d762dcad.svg",
+  "static/media/spotify.svg": "/Quetta/static/media/spotify.4b7bddf7.svg",
+  "static/media/Facebook.svg": "/Quetta/static/media/Facebook.5bdb380b.svg",
+  "static/media/Pinterest.svg": "/Quetta/static/media/Pinterest.3ef03c49.svg",
+  "static/media/Skype.svg": "/Quetta/static/media/Skype.5fac5025.svg",
+  "static/media/googlechrome.svg": "/Quetta/static/media/googlechrome.06c51f01.svg",
+  "static/media/Teams.svg": "/Quetta/static/media/Teams.20d3b928.svg",
+  "static/media/News.svg": "/Quetta/static/media/News.b516a032.svg",
+  "static/media/shopping.svg": "/Quetta/static/media/shopping.3dfb6de2.svg",
+  "static/css/main.e9f144ea.chunk.css.map": "/Quetta/static/css/main.e9f144ea.chunk.css.map",
+  "index.html": "/Quetta/index.html",
+  "precache-manifest.ee21de252f206db5a70501b3ce67b152.js": "/Quetta/precache-manifest.ee21de252f206db5a70501b3ce67b152.js",
+  "service-worker.js": "/Quetta/service-worker.js"
 }
