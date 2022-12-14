@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "19279e4f5f091e56cbe4",
-    "url": "/Quetta/static/css/main.a593d2d9.chunk.css"
+    "revision": "3c65d8048ce08237071b",
+    "url": "/Quetta/static/css/main.ca1be347.chunk.css"
   },
   {
-    "revision": "19279e4f5f091e56cbe4",
-    "url": "/Quetta/static/js/main.19279e4f.chunk.js"
+    "revision": "3c65d8048ce08237071b",
+    "url": "/Quetta/static/js/main.3c65d804.chunk.js"
   },
   {
     "revision": "5a63e80967d755f43234",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/Quetta/static/media/shopping.3dfb6de2.svg"
   },
   {
-    "revision": "3f482138bb8c3b36dc1be46eb49001c6",
+    "revision": "6d14c1b9b8f7de426e2a357ef07cac2c",
     "url": "/Quetta/index.html"
   }
 ];
