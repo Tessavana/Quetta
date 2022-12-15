@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "47b686c332687c93fe39",
-    "url": "/Quetta/static/css/main.a78ffcb7.chunk.css"
+    "revision": "8f3aaceceda3ee6fe6bc",
+    "url": "/Quetta/static/css/main.d0388c73.chunk.css"
   },
   {
-    "revision": "47b686c332687c93fe39",
-    "url": "/Quetta/static/js/main.47b686c3.chunk.js"
+    "revision": "8f3aaceceda3ee6fe6bc",
+    "url": "/Quetta/static/js/main.8f3aacec.chunk.js"
   },
   {
-    "revision": "5a63e80967d755f43234",
-    "url": "/Quetta/static/js/1.5a63e809.chunk.js"
+    "revision": "8549b66a48c276059045",
+    "url": "/Quetta/static/js/1.8549b66a.chunk.js"
   },
   {
-    "revision": "d00f19bf43c0aa110659",
-    "url": "/Quetta/static/js/2.d00f19bf.chunk.js"
+    "revision": "7b12f73f9204b2f57bf5",
+    "url": "/Quetta/static/js/2.7b12f73f.chunk.js"
   },
   {
-    "revision": "85397e61ad56a4a2fe7b",
-    "url": "/Quetta/static/js/runtime~main.85397e61.js"
+    "revision": "7086efaa942f663af6e0",
+    "url": "/Quetta/static/js/runtime~main.7086efaa.js"
   },
   {
     "revision": "e839a8bf81ebbd61c03cc6be233498e0",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/Quetta/static/media/shopping.3dfb6de2.svg"
   },
   {
-    "revision": "bda68c72ba02faa6b86322c974926aa3",
+    "revision": "73d423409e0745763c7651219fb0e9f4",
     "url": "/Quetta/index.html"
   }
 ];
